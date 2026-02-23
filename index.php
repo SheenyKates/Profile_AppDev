@@ -1,4 +1,7 @@
 <?php
+include 'sdk/ProfileCard.php';  
+include 'sdk/profileFunctions.php'; 
+
 $name = "Sheeny Kates Dagala";
 $age = 21;
 $address = "Pagatpat, Cagayan de Oro City";
